@@ -1,0 +1,8 @@
+.DS_Store
+.env
+.env.*
+*.token
+*.secret
+*.pem
+*.key
+.hermes/
